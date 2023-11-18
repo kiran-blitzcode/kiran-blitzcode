@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+•	👋 Hi, I’m @kiran_blitzcode
+•	👀 I do AI/ML Development 
+•	🌱 I currently work in the Generative AI space
+•	📫 How to reach me - Drop a mail at kiransthomas99@gmail.com
+
+
 <!--
 **kiran-blitzcode/kiran-blitzcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
