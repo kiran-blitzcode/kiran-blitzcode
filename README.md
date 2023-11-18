@@ -1,8 +1,11 @@
 
 
 •	👋 Hi, I’m @kiran_blitzcode
+
 •	👀 I do AI/ML Development 
+
 •	🌱 I currently work in the Generative AI space
+
 •	📫 How to reach me - Drop a mail at kiransthomas99@gmail.com
 
 
